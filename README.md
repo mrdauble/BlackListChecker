@@ -23,7 +23,7 @@ Ayrıca bana ulaşabilirsiniz.
 _____________________
 <h2>#Kullanım</h2>
 
-IP aralığını listeleyip blacklist check yapacaksanız.
+<h3>IP aralığını listeleyip blacklist check yapacaksanız.</h3>
 
 "sudo python3 ip.py" Şekilde toolu çalıştırın sonrasından Oklet Oklet Ip aralığını verin.
 
