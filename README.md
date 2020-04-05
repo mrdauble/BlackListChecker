@@ -1,10 +1,7 @@
 <h2>Özellikleri</h2>
-*IP aralığına göre tek tek ip black list kontrolü yapmaktadır.
-
- *120 yerden  black listleri kontrol etmektedir.
- 
-  *Tek ip adresi, yada liste formatında arama yapabilmektedir.
-  
+<p>*IP aralığına göre tek tek ip black list kontrolü yapmaktadır.</p>
+<p> *120 yerden  black listleri kontrol etmektedir.</p>
+ <p> *Tek ip adresi, yada liste formatında arama yapabilmektedir.</p>
    <h2>Kurulum</h2>
   sudo git clone https://github.com/mrdauble/BlackListChecker.git
   
