@@ -33,8 +33,11 @@ Oklet4:0 //( 0 dan başla)
 
 
 Oklet1:192
+
 Oklet2:168
+
 Oklet3:1
+
 Oklet4:5 //( 5'e kadar ip'leri çıkar)
 
 192.168.1.0
@@ -56,6 +59,7 @@ Eğer sadece blacklist kontrolü yapacaksanız örnek Kullanım:
 sudo python3 blacklist.py -i <İP adresi>
 
 sudo python3 blacklist.py -i 8.8.8.8
+
 
 
 
