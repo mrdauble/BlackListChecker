@@ -27,7 +27,7 @@ _____________________
 
 "sudo python3 ip.py" Şekilde toolu çalıştırın sonrasından Oklet Oklet Ip aralığını verin.
 
-Örnek kullanım(Şuan sadece son oklete göre listeleme yapmaktadır.):
+<h5>Örnek kullanım(Şuan sadece son oklete göre listeleme yapmaktadır.):</h5>
 
 Oklet1:192
 
