@@ -9,7 +9,7 @@
   sudo git clone https://github.com/mrdauble/BlackListChecker.git
   
   
-#Çalıştırmadan önce:
+<h4>Çalıştırmadan önce:</h4>
 
  pip3 install urllib3 
  
@@ -65,7 +65,7 @@ Oklet4:5 //( 5'e kadar ip'leri çıkar)
 192.168.1.5
 
 //ve sonrasında tek tek iplerde blacklist taraması başlar.
-_________________________________________
+
 <h3>Eğer sadece blacklist kontrolü yapacaksanız örnek kullanım:</h3>
 
 sudo python3 blacklist.py -i <İP adresi>
