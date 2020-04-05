@@ -6,15 +6,18 @@
  
  pip3 install dnspython
  
-Toolda hata alırsanız
+ 
+Toolda hata alırsanız:
+
 urllib3 >= 1.21.1 üstü sürümler
 
-dnspython >= 2.0.0 üstü sürümler 
+dnspython >= 2.0.0 üstü sürümler
 
+Ayrıca bana ulaşabilirsiniz.
 _____________________
 #Kullanım
 
-İP aralığını listeleyip blacklist check yapacaksanız.
+IP aralığını listeleyip blacklist check yapacaksanız.
 
 "sudo python3 ip.py" Şekilde toolu çalıştırın sonrasından Oklet Oklet Ip aralığını verin.
 
