@@ -1,5 +1,14 @@
-<h1>Özellikleri</>
+<h2>Özellikleri</h2>
+*IP aralığına göre tek tek ip black list kontrolü yapmaktadır.
 
+ *120 yerden  black listleri kontrol etmektedir.
+ 
+  *Tek ip adresi, yada liste formatında arama yapabilmektedir.
+  
+   <h2>Kurulum</h2>
+  sudo git clone https://github.com/mrdauble/BlackListChecker.git
+  
+  
 #Çalıştırmadan önce:
 
  pip3 install urllib3 
@@ -7,7 +16,7 @@
  pip3 install dnspython
  
  
-<h4>Toolda hata alırsanız:</>
+<h4>Toolda hata alırsanız:</h4>
 
 urllib3 >= 1.21.1 üstü sürümler
 
@@ -15,7 +24,7 @@ dnspython >= 2.0.0 üstü sürümler
 
 Ayrıca bana ulaşabilirsiniz.
 _____________________
-<h2>#Kullanım</>
+<h2>#Kullanım</h2>
 
 IP aralığını listeleyip blacklist check yapacaksanız.
 
@@ -57,7 +66,7 @@ Oklet4:5 //( 5'e kadar ip'leri çıkar)
 
 //ve sonrasında tek tek iplerde blacklist taraması başlar.
 _________________________________________
-<h3>Eğer sadece blacklist kontrolü yapacaksanız örnek kullanım:</>
+<h3>Eğer sadece blacklist kontrolü yapacaksanız örnek kullanım:</h3>
 
 sudo python3 blacklist.py -i <İP adresi>
 
