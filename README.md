@@ -9,14 +9,14 @@
 <h4>Çalıştırmadan önce:</h4>
 
  pip3 install urllib3 
- 
+ <br>
  pip3 install dnspython
  
  
 <h4>Toolda hata alırsanız:</h4>
 
 urllib3 >= 1.21.1 üstü sürümler
-
+<br>
 dnspython >= 2.0.0 üstü sürümler
 
 Ayrıca bana ulaşabilirsiniz.
@@ -30,35 +30,35 @@ _____________________
 <h5>Örnek kullanım(Şuan sadece son oklete göre listeleme yapmaktadır.):</h5>
 
 Oklet1:192
-
+<br>
 Oklet2:168
-
+<br>
 Oklet3:1
-
+<br>
 Oklet4:0 //( 0 dan başla)
 
 <br>
 
 Oklet1:192
-
+<br>
 Oklet2:168
-
+<br>
 Oklet3:1
-
+<br>
 Oklet4:5 //( 5'e kadar ip'leri çıkar)
 
 <br>
 
 192.168.1.0
-
+<br>
 192.168.1.1
-
+<br>
 192.168.1.2
-
+<br>
 192.168.1.3
-
+<br>
 192.168.1.4
-
+<br>
 192.168.1.5
 
 //ve sonrasında tek tek iplerde blacklist taraması başlar.
