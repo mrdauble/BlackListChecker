@@ -65,15 +65,6 @@ Oklet4:5 //( 5'e kadar ip'leri çıkar)
 
 <h3>Eğer sadece blacklist kontrolü yapacaksanız örnek kullanım:</h3>
 
-sudo python3 blacklist.py -i <İP adresi>
-
-sudo python3 blacklist.py -i 8.8.8.8
-
+sudo python3 blacklist.py -i <İP adresi> #sudo python3 blacklist.py -i 8.8.8.8#
 <br>
-sudo python3 blacklist.py -f <ip.txt (Liste Şeklinde İp adresi kontrolü)
-
-sudo python3 blacklist.py -f iplist.txt
-
-
-
-
+sudo python3 blacklist.py -f <ip.txt (Liste Şeklinde İp adresi kontrolü)> #sudo python3 blacklist.py -f iplist.txt#
