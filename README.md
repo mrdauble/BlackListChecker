@@ -1,4 +1,4 @@
-
+<h1>Özellikleri</>
 
 #Çalıştırmadan önce:
 
@@ -7,7 +7,7 @@
  pip3 install dnspython
  
  
-Toolda hata alırsanız:
+<h4>Toolda hata alırsanız:</>
 
 urllib3 >= 1.21.1 üstü sürümler
 
@@ -15,7 +15,7 @@ dnspython >= 2.0.0 üstü sürümler
 
 Ayrıca bana ulaşabilirsiniz.
 _____________________
-#Kullanım
+<h2>#Kullanım</>
 
 IP aralığını listeleyip blacklist check yapacaksanız.
 
@@ -31,6 +31,7 @@ Oklet3:1
 
 Oklet4:0 //( 0 dan başla)
 
+<br>
 
 Oklet1:192
 
@@ -39,6 +40,8 @@ Oklet2:168
 Oklet3:1
 
 Oklet4:5 //( 5'e kadar ip'leri çıkar)
+
+<br>
 
 192.168.1.0
 
@@ -54,17 +57,14 @@ Oklet4:5 //( 5'e kadar ip'leri çıkar)
 
 //ve sonrasında tek tek iplerde blacklist taraması başlar.
 _________________________________________
-Eğer sadece blacklist kontrolü yapacaksanız örnek Kullanım:
+<h3>Eğer sadece blacklist kontrolü yapacaksanız örnek kullanım:</>
 
 sudo python3 blacklist.py -i <İP adresi>
 
 sudo python3 blacklist.py -i 8.8.8.8
 
-
-
-
-sudo python3 blacklist.py -f <ip.txt (Liste Şeklinde İp adresi kontrolü)>
-
+<br>
+sudo python3 blacklist.py -f <ip.txt (Liste Şeklinde İp adresi kontrolü)
 
 sudo python3 blacklist.py -f iplist.txt
 
